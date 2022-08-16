@@ -1803,6 +1803,16 @@ input, select, textarea {
 			margin: 0 0 4em 0;
 		}
 
+		.image.featured.small {
+			width: 60%;
+			margin: 0 auto 2em auto;
+		}
+
+		.image.featured.xsmall {
+			width: 50%;
+			margin: 0 auto 2em auto;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
